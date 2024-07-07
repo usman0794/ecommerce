@@ -1,0 +1,1 @@
+<?php echo clean($email_body, array('Attr.EnableID' => true)); ?><?php /**PATH C:\xampp\htdocs\genius-shop\project\resources\views/admin/email/mailbody.blade.php ENDPATH**/ ?>
